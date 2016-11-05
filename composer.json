@@ -1,0 +1,14 @@
+{
+    "name": "marius/bistone",
+    "description": "Description",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marius Adam",
+            "email": "marius.adam@evozon.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
